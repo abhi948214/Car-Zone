@@ -28,7 +28,7 @@ DEBUG = True
 
 # ALLOWED_HOSTS = ['floating-badlands-41165.herokuapp.com', 'carzoneapp.co', 'www.carzoneapp.co']
 
-ALLOWED_HOSTS = ['https://carzone-django.herokuapp.com/']
+ALLOWED_HOSTS = ['carzone-django.herokuapp.com']
 
 LOGIN_REDIRECT_URL = 'dashboard'
 
